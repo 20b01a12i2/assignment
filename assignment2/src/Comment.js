@@ -34,7 +34,7 @@ function Comment(props) {
                         New Member
                     </div>
                     <div className="description">
-                        Jenny wants to add you to the group <b>best friends</b>
+                        Jenny wants to add you to the group best friends
                     </div>
                 </div>
                 <div className="extra content">
